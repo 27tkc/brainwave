@@ -17,4 +17,10 @@ Brainwave is a modern front-end project built with **React, Vite, Tailwind CSS, 
 - **Tailwind CSS** – Utility-first styling for rapid UI development.
 - **PostCSS** – Advanced CSS processing and optimizations.
 
-This ensures proper Markdown styling, readability, and maintainability for your GitHub repository. 🚀
+## 📸 Screenshots
+
+![Screenshot 1](./screenshots/screenshot1.png)
+![Screenshot 2](./screenshots/screenshot2.png)
+![Screenshot 3](./screenshots/screenshot3.png)
+![Screenshot 4](./screenshots/screenshot4.png)
+![Screenshot 5](./screenshots/screenshot5.png)
